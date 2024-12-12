@@ -5,7 +5,13 @@ int main () {
 
     std::cout << "Una nuova riga di codice\n";
     std::cout << "Una nuova riga di codice sul branch A\n";
-    std::cout << "Genera un conflitto\n" ;
+    std::cout << "Una seconda riga nuova riga di codice sul branch A\n";
+     std::cout << "Una terza riga nuova riga di codice sul branch A\n";
+
+
+//jjjjjj
+//ytytyttyttytytyuuy
+
     return -1;
 
 }
