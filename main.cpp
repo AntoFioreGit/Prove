@@ -11,6 +11,7 @@ int main () {
       std::cout << "Una terza riga nuova riga di codice sul branch A\n";
       //jjjj
       XXX;
+      //Locale
 
 
 
