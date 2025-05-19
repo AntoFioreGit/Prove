@@ -13,7 +13,7 @@ int main () {
       XXX;
     //Remoto
     //REMOTO
-    //REMOTO_1
+    //LOCALE_1
 
 
 
