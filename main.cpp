@@ -13,9 +13,7 @@ int main () {
       XXX;
     //Remoto
     //REMOTO
-    LOCALE  s
-
-
+    //LOCAL
 
 
 
