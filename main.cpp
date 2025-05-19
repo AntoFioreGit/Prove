@@ -13,7 +13,7 @@ int main () {
       XXX;
     //Remoto
     //REMOTO
-    LOCALE 
+    GENERA_CONFLITTO
 
 
 
