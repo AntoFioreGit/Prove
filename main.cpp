@@ -13,7 +13,7 @@ int main () {
       XXX;
     //Remoto
     //REMOTO
-    //LOCALhg
+    //GENERA_CONF
 
 
 
